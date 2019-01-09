@@ -1,11 +1,11 @@
 # Site settings
 author: Michael Nnaji
-title: 
+title: Journey to Fullstack
 header-img: img/home-bg.png
 email: mnnaji3@uwo.ca
 copyright_name: Michael Nnaji
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mikennaji
